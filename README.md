@@ -44,6 +44,7 @@ Only adding Literature published not prior to 2014.
 3.  2016/03 [FPGA with OpenCL Solution Released to Deep Learning](http://www.hpcwire.com/2016/03/17/fpga-opencl-solution-released-deep-learning/)
 4.  2016/04 [Boosting Deep Learning with the Intel Scalable System Framework](http://www.nextplatform.com/2016/04/14/boosting-deep-learning-intel-scalable-system-framework/)
 5.  2016/04 [Movidius puts deep learning chip in a USB drive](http://www.theverge.com/2016/4/28/11510430/movidius-fathom-neural-compute-stick-myriad-2-chip)
+6.  2016/05 [The PCM-Neuron and Neural Computing](http://www.eetimes.com/author.asp?section_id=36&doc_id=1329754&)
 
 #### Hardware platforms & accelerators
 
