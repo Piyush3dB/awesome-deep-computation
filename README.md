@@ -13,7 +13,7 @@ Only adding Literature published not prior to 2014.
 5.  2015/08 [INsight: A Neuromorphic Computing System for Evaluation of Large Neural Networks](http://arxiv.org/pdf/1508.01008.pdf)
 6.  2016/02 [Deep Learning on FPGAs: Past, Present, and Future.](http://arxiv.org/abs/1602.04283)
 7.  2016/04 [Demonstrating Hybrid Learning in a Flexible Neuromorphic Hardware System](https://arxiv.org/pdf/1604.05080.pdf)
-7.  2016/04 [Hardware-oriented Approximation of Convolutional Neural Networks](http://arxiv.org/pdf/1604.03168v2.pdf)
+8.  2016/04 [Hardware-oriented Approximation of Convolutional Neural Networks](http://arxiv.org/pdf/1604.03168v2.pdf)
 
 #### Model Techniques
 
