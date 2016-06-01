@@ -1,5 +1,5 @@
 
-# Awesome Deep Learning Computation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Deep Computation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome deep learning hardware, compute cycle/memory optimisation and implementation techniques.  Inspired by [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 Only adding Literature published not prior to 2014.
 
