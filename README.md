@@ -22,7 +22,7 @@ Only adding Literature published not prior to 2014.
 3.  2015/02 [Deep Learning with Limited Numerical Precision](https://arxiv.org/pdf/1502.02551.pdf)
 4.  2015/02 [Faster learning of deep stacked autoencoders on multi-core systems using synchronized layer-wise pre-training](https://arxiv.org/abs/1603.02836)
 5.  2016/02 [Neural Networks with Few Multiplications](https://arxiv.org/abs/1510.03009)
-6.  2016/02 [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/abs/1510.00149)
+6.  2016/02 [Deep Compression: Compressing Deep Neural Networks with Pruning, Quantization and Huffman Coding](http://arxiv.org/abs/1510.00149)
 7.  2016/02 [8-Bit Approximations for Parallelism in Deep Learning](http://arxiv.org/abs/1511.04561)
 
 
@@ -31,7 +31,7 @@ Only adding Literature published not prior to 2014.
 1.  2015/09 [Heterogeneous Computing in HPC and Deep Learning](https://hpcuserforum.com/presentations/colorado-sept2015/InspuHeterogeneousComputingInHPCandDeepLearning.pdf)
 2.  2016/02 [Going Deeper with Embedded FPGA Platform for Convolutional Neural Network](http://www.isfpga.org/index_files/Slides/1_2.pdf)
 3.  2016/02 [Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/02/eyeriss_isscc_2016_slides.pdf)
-4.  2016/05 [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://videolectures.net/iclr2016_han_deep_compression/)
+4.  2016/05 [Deep Compression: Compressing Deep Neural Networks with Pruning, Quantization and Huffman Coding](http://videolectures.net/iclr2016_han_deep_compression/)
 
 #### Thesis
 
@@ -45,11 +45,12 @@ Only adding Literature published not prior to 2014.
 #### Blogs and Articles
 
 1.  2015/05 [Numerical Optimization for Deep Learning](http://insidehpc.com/2015/05/numerical-optimization-for-deep-learning/)
-2.  2016/03 [FPGAs Challenge GPUs as a Platform for Deep Learning](https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/)
-3.  2016/03 [FPGA with OpenCL Solution Released to Deep Learning](http://www.hpcwire.com/2016/03/17/fpga-opencl-solution-released-deep-learning/)
-4.  2016/04 [Boosting Deep Learning with the Intel Scalable System Framework](http://www.nextplatform.com/2016/04/14/boosting-deep-learning-intel-scalable-system-framework/)
-5.  2016/04 [Movidius puts deep learning chip in a USB drive](http://www.theverge.com/2016/4/28/11510430/movidius-fathom-neural-compute-stick-myriad-2-chip)
-6.  2016/05 [The PCM-Neuron and Neural Computing](http://www.eetimes.com/author.asp?section_id=36&doc_id=1329754&)
+2.  2015/10 [Single Node Caffe Scoring and Training on Intel® Xeon E5-Series Processors](https://software.intel.com/en-us/articles/single-node-caffe-scoring-and-training-on-intel-xeon-e5-series-processors)
+3.  2016/03 [FPGAs Challenge GPUs as a Platform for Deep Learning](https://www.tractica.com/automation-robotics/fpgas-challenge-gpus-as-a-platform-for-deep-learning/)
+4.  2016/03 [FPGA with OpenCL Solution Released to Deep Learning](http://www.hpcwire.com/2016/03/17/fpga-opencl-solution-released-deep-learning/)
+5.  2016/04 [Boosting Deep Learning with the Intel Scalable System Framework](http://www.nextplatform.com/2016/04/14/boosting-deep-learning-intel-scalable-system-framework/)
+6.  2016/04 [Movidius puts deep learning chip in a USB drive](http://www.theverge.com/2016/4/28/11510430/movidius-fathom-neural-compute-stick-myriad-2-chip)
+7.  2016/05 [The PCM-Neuron and Neural Computing](http://www.eetimes.com/author.asp?section_id=36&doc_id=1329754&)
 
 #### Hardware platforms & accelerators
 
