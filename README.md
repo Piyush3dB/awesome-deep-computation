@@ -1,5 +1,5 @@
 
-# Awesome Deep Learning Computation: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Deep Learning Computation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome deep learning hardware, compute cycle/memory optimisation and implementation techniques.  Inspired by [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 Only adding Literature published not prior to 2014.
 
@@ -21,6 +21,9 @@ Only adding Literature published not prior to 2014.
 2.  2014/12 [Implementation of Deep Convolutional Neural Net on a Digital Signal Processor](http://cs229.stanford.edu/proj2014/Elaina%20Chai,Implementation%20of%20Deep%20Convolutional%20NeuralNet%20on%20a%20DSP.pdf)
 3.  2015/02 [Deep Learning with Limited Numerical Precision](https://arxiv.org/pdf/1502.02551.pdf)
 4.  2015/02 [Faster learning of deep stacked autoencoders on multi-core systems using synchronized layer-wise pre-training](https://arxiv.org/abs/1603.02836)
+5.  2016/02 [Neural Networks with Few Multiplications](https://arxiv.org/abs/1510.03009)
+6.  2016/02 [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://arxiv.org/abs/1510.00149)
+7.  2016/02 [8-Bit Approximations for Parallelism in Deep Learning](http://arxiv.org/abs/1511.04561)
 
 
 #### Tutorials and talks
@@ -28,6 +31,7 @@ Only adding Literature published not prior to 2014.
 1.  2015/09 [Heterogeneous Computing in HPC and Deep Learning](https://hpcuserforum.com/presentations/colorado-sept2015/InspuHeterogeneousComputingInHPCandDeepLearning.pdf)
 2.  2016/02 [Going Deeper with Embedded FPGA Platform for Convolutional Neural Network](http://www.isfpga.org/index_files/Slides/1_2.pdf)
 3.  2016/02 [Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/02/eyeriss_isscc_2016_slides.pdf)
+4.  2016/05 [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](http://videolectures.net/iclr2016_han_deep_compression/)
 
 #### Thesis
 
