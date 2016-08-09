@@ -4,7 +4,13 @@ A curated list of awesome deep learning hardware, compute cycle/memory optimisat
 Literature from 2014 onwards.
 
 
-#### Low Level Hardware
+#### Transistor/Gate Level Hardware
+
+1. 2016/05 [A 2.2 GHz SRAM with High Temperature Variation Immunity for Deep Learning Application under 28nm](http://dl.acm.org/citation.cfm?id=2903982)
+2. 2016/06 [Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network](https://nicsefc.ee.tsinghua.edu.cn/media/publications/2016/DAC16_197.pdf)
+3. 2016/06 [Low-power approximate convolution computing unit with domain-wall motion based "spin-memristor" for image processing applications](http://dl.acm.org/citation.cfm?id=2898042)
+
+#### Low Level Hardware Architecture
 
 1.  2014/06 [A 240 G-ops/s Mobile Coprocessor for Deep Neural Networks](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W17/papers/Gokhale_A_240_G-opss_2014_CVPR_paper.pdf)
 2.  2015/02 [Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks](http://cadlab.cs.ucla.edu/~cong/slides/fpga2015_chen.pdf)
@@ -12,15 +18,17 @@ Literature from 2014 onwards.
 4.  2015/06 [Memory and information processing in neuromorphic systems](http://arxiv.org/pdf/1506.03264.pdf)
 5.  2015/08 [INsight: A Neuromorphic Computing System for Evaluation of Large Neural Networks](http://arxiv.org/pdf/1508.01008.pdf)
 6.  2016/02 [Deep Learning on FPGAs: Past, Present, and Future.](http://arxiv.org/abs/1602.04283)
-7.  2016/02 [vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design](http://arxiv.org/pdf/1602.08124v3.pdf)
-8.  2016/04 [Demonstrating Hybrid Learning in a Flexible Neuromorphic Hardware System](https://arxiv.org/pdf/1604.05080.pdf)
-9.  2016/04 [Hardware-oriented Approximation of Convolutional Neural Networks](http://arxiv.org/pdf/1604.03168v2.pdf)
-10.  2016/04 [Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices](https://arxiv.org/pdf/1603.07341.pdf)
-11.  2016/05 [ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars](https://www.cs.utah.edu/~rajeev/pubs/isca16.pdf)
-12.  2016/07 [Maximizing CNN Accelerator Efficiency Through Resource Partitioning](http://arxiv.org/pdf/1607.00064v1.pdf)
-13.  2016/07 [Overcoming Resource Underutilization in Spatial CNN Accelerators](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/FPL16_Overcoming_Resource_Underutilization_in_Spatial_CNN_Accelerators.pdf)
+7.  2016/02 [A 1.42TOPS/W deep convolutional neural network recognition processor for intelligent IoE systems](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7418008&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7418008)
+8.  2016/02 [vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design](http://arxiv.org/pdf/1602.08124v3.pdf)
+9.  2016/04 [Demonstrating Hybrid Learning in a Flexible Neuromorphic Hardware System](https://arxiv.org/pdf/1604.05080.pdf)
+10.  2016/04 [Hardware-oriented Approximation of Convolutional Neural Networks](http://arxiv.org/pdf/1604.03168v2.pdf)
+11.  2016/04 [Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices](https://arxiv.org/pdf/1603.07341.pdf)
+12.  2016/05 [ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars](https://www.cs.utah.edu/~rajeev/pubs/isca16.pdf)
+13.  2016/07 [Maximizing CNN Accelerator Efficiency Through Resource Partitioning](http://arxiv.org/pdf/1607.00064v1.pdf)
+14.  2016/07 [Overcoming Resource Underutilization in Spatial CNN Accelerators](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/FPL16_Overcoming_Resource_Underutilization_in_Spatial_CNN_Accelerators.pdf)
+15.  2016/07 [Dynamic energy-accuracy trade-off using stochastic computing in deep neural networks](http://dl.acm.org/citation.cfm?id=2898011)
 
-#### Model Techniques
+#### Model Implementation Techniques
 
 1.  2014/12 [Training Deep Neural Neworks with Low Precision Multiplications](https://arxiv.org/pdf/1412.7024.pdf)
 2.  2014/12 [Implementation of Deep Convolutional Neural Net on a Digital Signal Processor](http://cs229.stanford.edu/proj2014/Elaina%20Chai,Implementation%20of%20Deep%20Convolutional%20NeuralNet%20on%20a%20DSP.pdf)
@@ -44,6 +52,7 @@ Literature from 2014 onwards.
 #### Thesis
 
 1. 2015/08 [FPGA based Multi-core architectures for Deep Learning](https://etd.ohiolink.edu/!etd.send_file?accession=dayton1449417091&disposition=inline)
+1. 2016/05 [Ristretto:  Hardware-Oriented Approximation of Convolutional Neural Networks](https://arxiv.org/pdf/1605.06402.pdf)
 
 #### Whitepapers
 
